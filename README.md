@@ -92,3 +92,4 @@ Jest / Testing        ██████████████░░░░░�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeasantoss/guilhermeasantoss/output/github-contribution-grid-snake.svg">
   <img alt="Animação da grade de contribuições do GitHub" src="https://raw.githubusercontent.com/guilhermeasantoss/guilhermeasantoss/output/github-contribution-grid-snake.svg">
 </picture>
+
