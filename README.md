@@ -1,7 +1,5 @@
-<h1 align="center">Olá, eu sou Guilherme Alves 👋</h1>
-
+<h1 align="center">Olá, eu sou Guilherme Alves </h1>
 <h3 align="center">Desenvolvedor Front-end • UI/UX Enthusiast • Estudante de ADS</h3>
-
 <p align="center">
   Transformando ideias em interfaces modernas, rápidas e acessíveis.
 </p>
@@ -25,7 +23,6 @@
 <br>
 
 ## 💻 Sobre mim
-
 - 🎓 Técnico em Informática, cursando Análise e Desenvolvimento de Sistemas (ADS)
 - 💻 Foco em desenvolvimento Front-end e UI Design
 - 🌎 São Paulo, Brasil
@@ -39,7 +36,6 @@
 <p align="center">
   <a>https://spectrum-ruddy.vercel.app/</a>
 </p>
-
 <p align="center"><b>Spectrum</b> — plataforma full stack de e-commerce de suplementos.</p>
 
 <br>
@@ -100,6 +96,18 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=guilhermeasantoss&theme=github-dark&hide_border=true&ring=0e75b6&fire=0e75b6"/>
+</p>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeasantoss/guilhermeasantoss/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeasantoss/guilhermeasantoss/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/guilhermeasantoss/guilhermeasantoss/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <br>
